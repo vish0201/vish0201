@@ -4,7 +4,7 @@ I'm a passionate MERN stack developer with a love for building web applications.
 
 ## 🔧 Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
