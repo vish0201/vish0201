@@ -17,11 +17,6 @@ I'm a passionate MERN stack developer with a love for building web applications.
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-## 🚀 Projects
-
-- [Project 1](Link to project 1)
-- [Project 2](Link to project 2)
-- ...
 
 ## 📈 GitHub Stats
 
