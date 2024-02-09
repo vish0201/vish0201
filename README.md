@@ -30,7 +30,3 @@ I'm a passionate MERN stack developer with a love for building web applications.
 <br>
 ![Earth](https://img.shields.io/badge/Portfolio-2E7D32?style=flat&logo=circle&logoColor=white) (#)
 
-## ❤️ Support
-
-If you find my work interesting or helpful, please consider giving it a ⭐️. Your support means a lot to me!
-
